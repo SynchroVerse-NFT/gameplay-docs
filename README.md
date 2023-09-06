@@ -1,9 +1,6 @@
-# Gameplay - Docs
-
 ![synchroverse_logo](https://github.com/SynchroVerse-NFT/gameplay-docs/blob/main/Images/syncroverse.png)
 
-In this section you will find the relevant documentation for all the systems and tools that 
-will help you to manage the gameplay in your project.
+In this section you will find the relevant documentation for all the systems and tools that will help you to manage the gameplay in your project.
 
 ### [General Tools]() - Useful tools for any project
 ### [Boat Connector]() - Invector extension to navigate boats
