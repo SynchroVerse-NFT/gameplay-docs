@@ -1,5 +1,7 @@
 # Gameplay - Docs
 
+![synchroverse_logo](https://github.com/SynchroVerse-NFT/gameplay-docs/blob/main/Images/syncroverse.png)
+
 In this section you will find the relevant documentation for all the systems and tools that 
 will help you to manage the gameplay in your project.
 
